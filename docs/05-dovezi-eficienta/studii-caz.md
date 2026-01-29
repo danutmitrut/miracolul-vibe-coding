@@ -143,7 +143,7 @@ Chiar dacă eventual vei angaja developeri pentru versiunea finală, poți valid
 
 ---
 
-## Extensia PopClip: Software pentru unul
+## Extensia PopClip: software pentru unul
 
 ### Contextul
 

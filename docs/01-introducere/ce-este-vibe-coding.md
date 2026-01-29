@@ -1,4 +1,4 @@
-# Ce este Vibe Coding?
+# Ce este vibe coding?
 
 Imaginează-ți că poți să construiești o aplicație doar spunând ce vrei să facă. Fără să înveți limbaje de programare. Fără să memorezi sintaxă. Fără să petreci ani la facultate de informatică.
 

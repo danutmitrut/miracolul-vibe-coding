@@ -1,4 +1,4 @@
-# Pure Vibe Coding
+# Pure vibe coding
 
 Există două moduri de a practica vibe coding. Primul - și cel mai radical - e **pure vibe coding**.
 

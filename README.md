@@ -1,4 +1,4 @@
-# Miracolul Vibe Coding
+# Miracolul vibe coding
 
 Un ghid complet pentru antreprenori și soloprenori care vor să construiască software fără să fie programatori.
 

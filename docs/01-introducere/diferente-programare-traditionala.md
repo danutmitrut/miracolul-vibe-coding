@@ -43,7 +43,7 @@ Dacă aveai o idee de aplicație dar nu erai programator:
 
 ### Input-ul
 
-| Tradițional | Vibe Coding |
+| Tradițional | vibe coding |
 |-------------|-------------|
 | Cod precis, sintaxă exactă | Limbaj natural, descrieri |
 | `for (let i = 0; i < items.length; i++)` | "Parcurge toate elementele din listă" |
@@ -51,7 +51,7 @@ Dacă aveai o idee de aplicație dar nu erai programator:
 
 ### Rolul tău
 
-| Tradițional | Vibe Coding |
+| Tradițional | vibe coding |
 |-------------|-------------|
 | Arhitect + Constructor + Debugger | Ghid + Tester + Rafinator |
 | Scrii fiecare linie | Descrii ce vrei |
@@ -59,7 +59,7 @@ Dacă aveai o idee de aplicație dar nu erai programator:
 
 ### Viteza
 
-| Tradițional | Vibe Coding |
+| Tradițional | vibe coding |
 |-------------|-------------|
 | Săptămâni pentru prototip | Ore pentru prototip |
 | Luni pentru MVP | Zile pentru MVP |
@@ -67,7 +67,7 @@ Dacă aveai o idee de aplicație dar nu erai programator:
 
 ### Expertiza necesară
 
-| Tradițional | Vibe Coding |
+| Tradițional | vibe coding |
 |-------------|-------------|
 | Cunoaștere profundă de sintaxă | Capacitate de a explica clar |
 | Înțelegerea detaliilor tehnice | Înțelegerea rezultatului dorit |
@@ -137,4 +137,4 @@ Diferența e că acum ai opțiunea. Înainte, dacă nu știai să gătești, mur
 
 ---
 
-**Capitolul următor:** [Pure Vibe Coding](../02-tipuri-de-vibe-coding/pure-vibe-coding.md) - Prima abordare: încredere totală în AI
+**Capitolul următor:** [Pure vibe coding](../02-tipuri-de-vibe-coding/pure-vibe-coding.md) - Prima abordare: încredere totală în AI
